@@ -99,7 +99,7 @@ body {
 .header-logo:focus,
 .footer-logo:hover,
 .footer-logo:focus {
-	color: fill;
+	color: var(--link-color);
 }
 
 .header-logo-span,
